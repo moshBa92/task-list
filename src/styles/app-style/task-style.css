@@ -1,0 +1,40 @@
+.completed{
+  color: green;
+  max-width: 50%;
+}
+
+div.max-width{
+  max-width: 400px;
+}
+
+hr {
+  width: 100%;
+  margin-left: unset;
+  margin-right: auto;
+  }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+ }
+
+ h2.add-task-h2{
+   margin: 10px;
+   color: rgb(108, 116, 133);
+ }
+
+ p.status-bar-completed{
+  font-size: 25px;
+  color: rgb(35, 168, 35);opacity: 0.6;
+
+}
+p.status-bar-uncompleted{
+  font-size: 25px;
+  color: rgb(214, 16, 16);opacity: 0.6;
+}
+
+.ow {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+}

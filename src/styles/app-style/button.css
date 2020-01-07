@@ -1,0 +1,24 @@
+button{
+    cursor: pointer;
+    border:solid 1px #888888;
+    background: #888888;
+    color: white;
+    padding: 6px;
+    margin: 5px;
+  }
+  button.completed{
+    background: rgb(60,179,113);
+    color: white;
+    padding: 3px;
+    margin: 3px;
+  }
+  button.remove{
+    background:rgb(205,92,92);
+    color: white;
+    padding: 3px;
+  }
+  button.update{
+    background: rgb(135,206,235);
+    color: white;
+    padding: 3px;
+  }
